@@ -1,4 +1,6 @@
-Hack 4 Justice is a social justice hackathon toolkit based on what we (Hack Cleveland) learned and accomplished producing FIX 216.
+Hack 4 Justice is a social justice hackathon toolkit. We're releasing our process of coordinating our event, FIX 216, so others may replicate. 
+
+In this repo we we've documented what we (Hack Cleveland) learned and accomplished producing FIX 216.
 
 Fix 216 was a civic hackathon that produced websites and apps that are facilitating open dialogue, idea generation, and awareness-building around public safety, excessive force and the Department of Justice consent decree in Cleveland, Ohio. 
 
