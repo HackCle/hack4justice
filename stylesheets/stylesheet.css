@@ -456,14 +456,39 @@ header {
 }
 
 header h1 {
-  width: 540px;
-  margin-top: 0;
-  margin-bottom: 0.2em;
-  font-size: 72px;
-  font-weight: normal;
-  line-height: 1;
-  color: #fff;
-  letter-spacing: -1px;
+ display: block;
+-webkit-box-sizing: content-box;
+-moz-box-sizing: content-box;
+box-sizing: content-box;
+float: none;
+z-index: auto;
+width: auto;
+height: auto;
+position: static;
+cursor: default;
+opacity: 1;
+margin: 0;
+padding: 0;
+overflow: visible;
+border: none;
+-webkit-border-radius: 0;
+border-radius: 0;
+font: normal 86px/1 "Basic", Helvetica, sans-serif;
+color: rgba(74,134,232,1);
+-o-text-overflow: ellipsis;
+text-overflow: ellipsis;
+background: none;
+-webkit-box-shadow: none;
+box-shadow: none;
+text-shadow: 2px 1px 0 rgba(0,255,0,1) ;
+-webkit-transition: none;
+-moz-transition: none;
+-o-transition: none;
+transition: none;
+-webkit-transform: none;
+transform: none;
+-webkit-transform-origin: 0 0 0;
+transform-origin: 0 0 0;
 }
 
 header h2 {
