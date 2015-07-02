@@ -450,7 +450,7 @@ a:hover {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family:'Helvetica Neue', Helvetica, Arial, serif;
+  font-family:"Basic", Helvetica, sans-serif;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
@@ -474,7 +474,7 @@ border: none;
 -webkit-border-radius: 0;
 border-radius: 0;
 font: normal 86px/1 "Basic", Helvetica, sans-serif;
-color: rgba(74,134,232,1);
+color: #FFFFFF;
 -o-text-overflow: ellipsis;
 text-overflow: ellipsis;
 background: none;
